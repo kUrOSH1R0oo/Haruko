@@ -34,23 +34,6 @@ HARUKO is a robust tool designed to generate customizable password wordlists for
    python3 haruko.py
    ```
 
-## [+] Installation (PIP)
-
-1. **Install gzip:**
-   ```bash
-   apt install gzip
-   ```
-
-2. **Install Haruko using pip:**
-   ```bash
-   pip3 install haruko
-   ```
-
-3. **Run the command to show up the Main Menu:**
-   ```bash
-   haruko
-   ```
-
 ## [+] Available Parameters
 
 | Parameters        | Description                                                                                       | Example                                     |
